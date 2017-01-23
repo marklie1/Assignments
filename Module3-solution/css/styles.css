@@ -1,0 +1,47 @@
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+#header-nav {
+	background-color: lightgray;
+
+}
+#header-nav a span {
+	color: black;
+	font-size: 2em;
+}
+.navbar-header {
+	padding-top: 10px;
+}
+#chicken, #beef, #sushi {
+	background-color: lightgray;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+#chicken h2, #beef h2, #sushi h2 {
+	text-align: center;
+}
+#nav-list a {
+	font-size: 1.2em;	
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+.navbar-nav>li>a {
+	padding-top: 20px;
+}
+#collapse-1 {
+	margin: 0;
+}
+#nav-list {
+	padding: 0;
+	margin: 0;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
